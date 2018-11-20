@@ -5,6 +5,7 @@ Detecting inspirational Lil B quotes overlayed in his music videos. The majority
 1. `pip3 install youtube-dl`
 2. `pip3 install pillow`
 3. `pip3 install opencv-python`
+4. Text detection model (.pb) can be found [here](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
 
 #### Run
 1. Download Lil B's videos from youtube `youtube-dl -ciw -f "mp4" https://www.youtube.com/user/lilbpack1`
