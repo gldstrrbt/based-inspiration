@@ -12,5 +12,7 @@ Detecting inspirational Lil B quotes overlayed in his music videos. The majority
 
 
 #### Credits
-Credit to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) @ [pyimagesearch.com](https://www.pyimagesearch.com), for the text detection [tutorial](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/). Adrian's teachings are invaluable, as they're incredibly thorough and comprehensible. If you're looking to learn more about computer vision/opencv with Python, I highly recommend checking out his tutorials.
+Credit to [Adrian Rosebrock](https://www.pyimagesearch.com/author/adrian/) @ [pyimagesearch.com](https://www.pyimagesearch.com), for the text detection [tutorial](https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/). I've made modifications to the original code, for example detecting the changes of frames and higher levels of prediction confidences, to lower the number of false positives, also the exporting of frames.
+
+Adrian's teachings are invaluable, as they're incredibly thorough and comprehensible. If you're looking to learn more about computer vision/opencv with Python, I highly recommend checking out his tutorials.
 
