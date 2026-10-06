@@ -1,5 +1,7 @@
 # Basedspiration
 
+> **Originally built: 2018.** Historical archive. This code reflects the tools, APIs, browser constraints, and coding practices of that period, not my current stack or standards.
+
 > **Project date: 2018 · Historical independent experiment.** This repository is preserved as an early computer-vision / dataset experiment and is not representative of my current stack or coding standards.
 
 An experimental archive of Lil B's inspirational, funny, strange, and unexpectedly sincere language.
