@@ -1,5 +1,7 @@
 # Basedspiration
 
+> **Project date: 2018 · Historical independent experiment.** This repository is preserved as an early computer-vision / dataset experiment and is not representative of my current stack or coding standards.
+
 An experimental archive of Lil B's inspirational, funny, strange, and unexpectedly sincere language.
 
 The long-term idea was larger than a quote website: **build a corpus of Lil B's public quotes across as many sources as possible, then explore training a language model on that body of text.** A lot of his most memorable messages were never collected in searchable text, especially the captions and statements embedded directly in his music videos.
